@@ -1,3 +1,6 @@
 INSERT INTO roles(name) VALUES('ROLE_USER');
 INSERT INTO roles(name) VALUES('ROLE_MODERATOR');
 INSERT INTO roles(name) VALUES('ROLE_ADMIN');
+
+@link https://www.bezkoder.com/spring-boot-jwt-authentication/
+@link https://www.bezkoder.com/spring-boot-refresh-token-jwt/
