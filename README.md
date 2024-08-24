@@ -6,7 +6,7 @@ Spring 6 Boot 3 - Refresh Token with JWT
 * Spring Boot Application Architecture with Spring Security
 * How to configure Spring Security to work with JWT
 * JWT Refresh Token. Expire the JWT, then renew the Access Token with Refresh Token.
-* How to define Data Models and association for Authentication and Authorization
+* How to define Data Models and associations for Authentication and Authorization
 * Way to use Spring Data JPA to interact with PostgreSQL Database
 
 ### Technology
